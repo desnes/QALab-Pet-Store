@@ -1,1 +1,2 @@
-# QALab-Pet-Store
+# QAInnovationLab
+Automation Team / For education purpose
